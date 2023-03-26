@@ -1,5 +1,4 @@
 ---
-title: Welcome to my first blog
+title: Learner's blog
 ---
 
-Hello World!
